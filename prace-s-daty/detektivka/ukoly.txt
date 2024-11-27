@@ -1,0 +1,28 @@
+Zahrajte si na informaèní detektivy a zjistìte požadovaná fakta o následujících souborech:
+1. Soubor divny.txt:
+    a) Jaké má soubor pøiøazeny atributy a kdy byl vytvoøen i zmìnìn? A, HR 
+    vytvoøen:	06/11/2024 9:01:02, Poslední zmìna	19/10/2012 21:25:32
+    
+    b) V jakém znakovém kódování je uložen? UTF-8
+    c) V jakém jazyce je napsán jeho obsah? Japonština
+    d) O èem text pojednává a z jakého internetového zdroje pochází (ideálnì uveïte pøesnou URL adresu)? Text pojednává o Praze https://cs.wikipedia.org/wiki/Praha
+    
+2. Soubor city.jpg:
+    a) Jaké rozmìry má tato fotka (v pixelech)? 1366x768
+    b) Jak se jmenuje mìsto na obrázku? Nairobi
+    c) Kde se toto mìsto pøesnì nachází (uveïte stát i kontinent)? Kìna, Afrika
+    d) Zjistìte aspoò GPS souøadnice nejvyšší budovy na fotce? 1°18'0,31” j. š., 36°48'46,86” v. d.
+    e) Co se v této budovì nachází?Patøí britsko-americké finanèní spoleènosti
+    
+3. Soubor person.jpg:
+    a) Jaké jsou bitová hloubka a rozlišení tohoto obrázku? bitová hloubka je 24 bitù, rozlišení je 900 x 900
+    b) Kdo je na této fotografii (jméno, pøíjmení, národnost, povolání)?Katalin Nováková, maïarská politièka, právnièka a ekonomka, bývala prezidentka
+    c) Uveïte adresu aspoò jednoho profilu této osoby na sociálních sítích.https://www.instagram.com/katalin.novak/?hl=cs
+    d) Najdìte na internetu co nejaktuálnìjší èlánek v èeském jazyce, v nìmž je jméno této osoby zmínìno.https://www.irozhlas.cz/zpravy-svet/madarska-prezidentka-katalin-novakova-abdikuje-udelala-jsem-chybu-uvedla-ve-svem_2402101817_jar
+    
+4. Soubor flag.png:
+    a) Jaká jsou bitová hloubka a rozmìry tohoto obrázku?bitová hloubka je 8 bitù, 580 x 387
+    b) Vlajka kterého státu je na obrázku? Bhutan
+    c) Najdìte bližší informace o tomto státu: rozloha 	38 394 km2, poèet obyvatel 741 700, hlavní mìsto 	Thimphu
+    d) Zjistìte pøesné barvy (RGB v desítkové i šestnáctkové soustavì) obou trojúhelníkových blokù v pozadí vlajky.   255 213 32        255 78 18
+    FF   D5 20        FF  4E 12
